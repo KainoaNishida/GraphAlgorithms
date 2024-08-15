@@ -39,7 +39,7 @@ Comparisons between Erdős-Rényi and Barabási-Albert graph models are also vis
 
 ## Analysis
 
-![analysis]("analysis.png")
+![analysis](analysis.png)
 
 ## Contributing
 
